@@ -1,7 +1,11 @@
-# Assignment No - 1 
-
-Hello World.....!!!
+# Assignment No - 2 
 
 Goal
-1. Create Pyhton File.
-2. Create Different types of Function with the Parameter
+1.Create Pyhton File.
+2.Write a Python program using:
+  lists
+  loops
+  conditional statements
+  input/output
+  modules
+  functions
