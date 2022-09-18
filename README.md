@@ -1,11 +1,6 @@
-# Assignment No - 2 
+# Midterm Exam -  
 
-Goal
-1.Create Pyhton File.
-2.Write a Python program using:
-  lists
-  loops
-  conditional statements
-  input/output
-  modules
-  functions
+Goal - 
+1. Python Program to Print all Prime Numbers in an Interval
+A positive integer greater than 1 which has no other factors except 1 and the number itself is called a prime number.
+2, 3, 5, 7 etc. are prime numbers as they do not have any other factors. But 6 is not prime (it is composite) since, 2 x 3 = 6.
